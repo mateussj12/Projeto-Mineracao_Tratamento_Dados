@@ -17,5 +17,5 @@ Esse projeto foi desenvolvido em um dia e meio.
 - Instalar as bibliotecas pandas, numpy, datetime 
 
 ### Considerações finais:
-**@Desenvolvedor:** Mateus Santos de Jesus
-**@Linkedin:** https://www.linkedin.com/in/mateus-santos-de-jesus-9819a8186
+- **@Desenvolvedor:** Mateus Santos de Jesus
+- **@Linkedin:** https://www.linkedin.com/in/mateus-santos-de-jesus-9819a8186
