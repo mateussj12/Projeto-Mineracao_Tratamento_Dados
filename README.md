@@ -3,10 +3,10 @@
 Esse projeto é meramente academico e foi desenvolvido com o foco de automatizar tarefas rotineiras de extração e tratamento de dados. Espero que sirva de inspiração para se utilizar o Framework Robot na criação de sistemas automatizadores de processos
 
 ### Sobre:
-Foi desenvolvido utilizando Python e o Framework Robot que usa em sua composição a biblioteca Selenium, porém é bem simples de utilizar, pois se trata de programação com chaves e valores, tornando as linhas de código simples, fáceis de serem compreendidas e, como utiliza o selenium como o motor da aplicação, é constituido de recursos.
+Foi desenvolvido com Python e o Framework Robot que usa em sua composição a biblioteca Selenium, porém é bem simples de entender, pois se trata de programação com chaves e valores, tornando as linhas de código simples e constituída de recursos.
 
 ### Finalidade:
-A finalidade, além de ser meramente acadêmica, foi a de automatizar tarefas rotineiras com o intuito em ganhar tempo na atividade de ter quer baixar arquivos zips com documentos em CSV, tratar os dados e depois realizar tomadas de decisões baseadas nesses dados.
+A finalidade, além de ser meramente acadêmica, foi a de automatizar tarefas rotineiras com o intuito em ganhar tempo na atividade de baixar arquivos zips com documentos em CSV, tratar os dados e depois realizar tomadas de decisões baseadas nesses dados.
 
 ### Tempo de desenvovilmento:
 Esse projeto foi desenvolvido em um dia e meio e está bem simples e pronto para receber várias melhorias.
