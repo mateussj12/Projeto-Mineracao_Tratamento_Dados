@@ -11,6 +11,11 @@ A finalidade, além de ser meramente acadêmica, foi a de automatizar uma das ta
 ### Tempo de desenvovilmento:
 Esse projeto foi desenvolvido em um dia e meio.
 
+### Requisitos:
+- Instalar o Python3
+- Instalar o framework Robot 
+- Instalar as bibliotecas pandas, numpy, datetime 
+
 ### Considerações finais:
 **@Desenvolvedor:** Mateus Santos de Jesus
 **@Linkedin:** https://www.linkedin.com/in/mateus-santos-de-jesus-9819a8186
