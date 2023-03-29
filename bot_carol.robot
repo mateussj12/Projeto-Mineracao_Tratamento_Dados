@@ -5,7 +5,6 @@
     tratar os dados e enviar para o DB, afim de emitir uma mensagem de alerta.
     ...
     @author = Mateus Santos de Jesus
-    @regional = RBS
     @copyright = Copyright 2023
     @version = 1.0
     @email = mateussj305@gmail.com
@@ -31,7 +30,7 @@ ${a_view_all}         //a[@class="cw-btn-regular cw-btn--small"]
 
 *** Keywords ***
 Abrir navegador e acessar o site:
-    Open Browser    https://telemont.carol.ai/auth/login?logout=true&env=telemont    chrome
+    Open Browser    https://telemont.carol.ai/auth/login?logout=true&env    chrome
 
 Preencher Campos:
     Sleep    2s
@@ -81,17 +80,16 @@ Executar arquivo de tratamento de dados:
 
 *** Test Cases ***
 Cenário 1: Acessar TOTVS Carol e exportar a planilha
-    #Abrir navegador e acessar o site:
-    #Preencher Campos:
-    #Clicar em submit:
-    #Clicar em elemento ancora:
-    #Clicar em Clock In Records:
-    #Clicar em button subtle:
-    #Clicar em button option:
-    #Exportar arquivo:
-    #Abrir Notificacao:
-    #Clicar em visualizar tudo:
-#Cenário 2: Baixar zip da planilha mais recente:
-    
+    Abrir navegador e acessar o site:
+    Preencher Campos:
+    Clicar em submit:
+    Clicar em elemento ancora:
+    Clicar em Clock In Records:
+    Clicar em button subtle:
+    Clicar em button option:
+    Exportar arquivo:
+    Abrir Notificacao:
+    Clicar em visualizar tudo:
+#Cenário 2: Baixar zip da planilha mais recente:   
 Cenário 3: Trata os dados e gera um xlsx
     Executar arquivo de tratamento de dados: 
