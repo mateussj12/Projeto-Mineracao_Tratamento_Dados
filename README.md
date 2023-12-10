@@ -1,6 +1,6 @@
 # Mineração e tratamento de dados
 
-Esse projeto é meramente academico e foi desenvolvido com o foco de automatizar tarefas rotineiras de extração e tratamento de dados. Espero que sirva de inspiração para se utilizar o Framework Robot na criação de sistemas automatizadores de processos
+Esse projeto é meramente academico e foi desenvolvido com o foco de automatizar tarefas rotineiras de extração e tratamento de dados. Espero que sirva de inspiração para se utilizar o Framework Robot na criação de sistemas com foco em automatização de processos
 
 ### Sobre:
 Foi desenvolvido com Python e o Framework Robot que usa em sua composição a biblioteca Selenium, porém é bem simples de entender, pois se trata de programação com chaves e valores, tornando as linhas de código simples e constituída de recursos.
